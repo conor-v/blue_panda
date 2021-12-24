@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "blue-panda",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "test voor purple panda",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
@@ -13,6 +13,7 @@
     "gatsby-plugin-react-helmet": "^5.4.0",
     "gatsby-plugin-sharp": "^4.4.0",
     "gatsby-source-filesystem": "^4.4.0",
+    "gatsby-source-wordpress": "^6.4.0",
     "gatsby-transformer-sharp": "^4.4.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
